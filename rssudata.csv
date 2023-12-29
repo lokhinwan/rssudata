@@ -1,4 +1,4 @@
-﻿Study,Participant ID,Type,Gender,Age (years),Heaight (m),Mass (kg),BMI (kg/m2,T1D Duration (Years),Insulin treatment,Pre,Post,post-pre
+﻿Study,Participant ID,Type,Gender,Age,Heaight,Mass,BMI,T1D Duration,Insulin treatment,Pre,Post,BG_change
 2,KM_T1D_24,HIT,M,39,1.83,91.3,27.26268327,26,,16.8,12.7,-4.1
 2,KM_T1D_24,HIT,M,39,1.83,91.3,27.26268327,26,,16.5,12.5,-4
 2,KM_T1D_24,HIT,M,39,1.83,91.3,27.26268327,26,,15.8,12.5,-3.3
